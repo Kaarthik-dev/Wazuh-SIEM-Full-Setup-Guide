@@ -28,4 +28,4 @@ By following this guide, you will have:
 - Clear understanding of common pitfalls
 
 For SOC-style alert triage and analysis, see:
-👉 https://github.com/YOUR_USERNAME/Wazuh-SOC-Alert-Triage-Lab
+👉 https://github.com/Kaarthik-dev/Wazuh-SOC-Alert-Triage-Lab
