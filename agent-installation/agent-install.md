@@ -1,4 +1,3 @@
----
 ## STEP 5 – Accessing the Wazuh Dashboard
 
 Once installation completes, the installer outputs the dashboard URL
