@@ -13,7 +13,7 @@ fail due to missing packages or outdated dependencies.
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-
+```
 ---
 
 ## STEP 2 – Downloading the Wazuh installer
