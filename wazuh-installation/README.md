@@ -1,4 +1,4 @@
-# Wazuh SIEM Installation (All-in-One)
+# Wazuh SIEM Installation
 
 This README documents the complete end-to-end installation and configuration of
 Wazuh SIEM (Manager, Indexer, Dashboard) and agent setup on Ubuntu Server.
